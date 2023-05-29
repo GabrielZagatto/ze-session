@@ -1,0 +1,42 @@
+body {
+    background-color: #cac9cae3;
+    width: 100vw;
+    height: 100vh;
+}
+.captain{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+button{
+    margin-top: 10px;
+}
+img{
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+}
+li{
+    margin-top: 10px;
+}
+.sair{
+    margin-right: 50px;
+    width: 5em;
+    height: 3em;
+}
+.out{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
